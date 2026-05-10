@@ -1,51 +1,51 @@
-# 👋 Hi, I'm Peter Bartsch!
+# 👋 Hi, I'm Peter Bartsch
 
-Welcome to my GitHub! I'm a friendly digital product leader with 15+ years of experience driving innovation and transformation for Fortune 500 companies and high-growth startups.
+Staff Product Designer & founder. Few designers ship $3.8B enterprise platforms *and*
+invent modular shelters running on their own agent-native design system. I do both.
 
-## 🚀 What I Do
+## 🚀 What I'm Working On
 
-- **Founder @ [Thiosphere Org](https://thiosphere.org/)**  
-  Inventing modular shelter systems for diverse applications—accelerating product development from concept to market-ready prototypes, with a focus on sustainability and zero-mile farming communities.
+- **Founder @ [Thios + Co](https://thios.co)** — modular shelter systems built on a
+  5-surface, agent-native design system, with a [pre-registered benchmark](https://thios.co/design-system-bench.html)
+  on whether the agent infrastructure actually works. The lean Claude Skill beat the
+  verbose one. Receipts, not slogans.
 
-- **Expert in Digital Transformation & Product Leadership**  
-  Proven track record in scaling design organizations, implementing enterprise-wide digital transformations, and leveraging tech to deliver measurable business impact.
-
-## 🛠️ Core Skills
-
-- UX/UI Design & Systems (Figma, Blender 3D, OnShape CAD)
-- Product Management
-- Agile Methodologies
-- AI Integrations
-- Team Scaling & Cross-functional Collaboration
-- Strategic Vision & Stakeholder Management
+- **Open to** — Staff/Principal IC roles · Design leadership at agent-native shops ·
+  Founding-team consulting.
 
 ## 🏆 Career Highlights
 
-- Led digital product teams at John Deere, FourKites, Maven Wave Consulting, Nokia/HERE Maps, and Gogo Inflight.
-- Delivered scalable solutions and achieved significant business growth, including 300% revenue and 9% recurring revenue increases.
-- Built open-sourced design files focused on real-world impact.
-- Experience working with major enterprise clients, including Abbott, Nike, OptumRx, and more.
+- **John Deere** — Senior Lead UX, Digital Customer Experience (2020–2024). Led design
+  across 8 product lines for 500K+ users. **34% → 87% profile completion** unlocked
+  **$3.8B** in subscription revenue. Core contributor to the enterprise design system
+  adopted across 40+ teams.
+- **FourKites** — Lead UX / Manager (2017–2020). Joined as employee #28.
+  **Built the design org from 1 → 10** through $3M → $100M ARR. Led the redesign that
+  introduced confidence intervals — 41% retention increase, 3× expansion, $1B+ valuation.
+- **MavenWave Partners** — Senior UX + Agile Lead. Clinical-trial portals for AbbVie
+  and patient-facing tools for OptumRx (1.4B prescriptions/yr).
+- **Nokia / HERE Maps · Gogo Inflight · Cognistar** — earlier product and UX roles.
 
-## 🌱 Favorite Projects
+## 🛠️ How I Work
 
-- [Thiosphere Org](https://thiosphere.org/)
-- Agrospheres initiative for sustainable farming communities
+Design systems · Forced adoption & retention · 0 → 1 in complex domains · Agent-native
+design systems · Design org leadership (1→10) · Figma · React · Three.js · Blender · OnShape
 
-## 🛹 Interests
+## 🌱 Projects
 
-- Skateboarding & snowboarding enthusiast
-- Volunteer snowboard instructor for disadvantaged teens (chill.org)
-- Board director for How Weird Street Faire (howweird.org)
+- **[petebartsch.com](https://petebartsch.com)** — portfolio & résumé. [Source](https://github.com/peterbartsch/peterbartsch.com).
+- **[Thios + Co](https://thios.co)** — modular shelters running on agent-native design infrastructure.
+
+## 🛹 Off the Clock
+
+- Skateboarding & snowboarding
+- Volunteer snowboard instructor for disadvantaged teens via [chill.org](https://chill.org)
+- Board director, [How Weird Street Faire](https://howweird.org) — 20+ years in good standing
 
 ## 📚 Education
 
-Bachelor of Arts, Humanities & Architectural Theory  
-Arizona State University
+Bachelor of Arts, Humanities (Architectural Theory concentration) — Arizona State University
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/peterbartsch/)
-
----
-
-Thanks for stopping by! Feel free to reach out or check out my projects. Let’s build something amazing together!
+[LinkedIn](https://www.linkedin.com/in/peterbartsch/) · [petebartsch.com](https://petebartsch.com) · peter@peterbartsch.com
