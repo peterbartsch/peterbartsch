@@ -49,3 +49,9 @@ Bachelor of Arts, Humanities (Architectural Theory concentration) — Arizona St
 ## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/peterbartsch/) · [petebartsch.com](https://petebartsch.com) · peter@peterbartsch.com
+
+
+
+[![thistripbtw-mcp MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/peterbartsch/thistripbtw-mcp/badges/card.svg)](https://glama.ai/mcp/servers/peterbartsch/thistripbtw-mcp)
+
+[![thistripbtw-mcp MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/peterbartsch/thistripbtw-mcp/badges/score.svg)](https://glama.ai/mcp/servers/peterbartsch/thistripbtw-mcp)
