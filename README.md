@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Peter Bartsch
 
-Staff Product Designer & founder. Few designers ship $3.8B enterprise platforms *and*
+Staff Product Designer & founder. Few designers work at $3.8B-platform enterprise scale *and*
 invent modular shelters running on their own agent-native design system. I do both.
 
 ## 🚀 What I'm Working On
 
 - **Founder @ [Thios + Co](https://thios.co)** — modular shelter systems built on a
-  5-surface, agent-native design system, with a [pre-registered benchmark](https://thios.co/design-system-bench.html)
+  6-surface, agent-native design system, with a [pre-registered benchmark](https://thios.co/design-system-bench.html)
   on whether the agent infrastructure actually works. The lean Claude Skill beat the
   verbose one. Receipts, not slogans.
 
@@ -15,15 +15,18 @@ invent modular shelters running on their own agent-native design system. I do bo
 
 ## 🏆 Career Highlights
 
-- **John Deere** — Senior Lead UX, Digital Customer Experience (2020–2024). Led design
-  across 8 product lines for 500K+ users. **34% → 87% profile completion** unlocked
-  **$3.8B** in subscription revenue. Core contributor to the enterprise design system
-  adopted across 40+ teams.
-- **FourKites** — Lead UX / Manager (2017–2020). Joined as employee #28.
-  **Built the design org from 1 → 10** through $3M → $100M ARR. Led the redesign that
-  introduced confidence intervals — 41% retention increase, 3× expansion, $1B+ valuation.
-- **MavenWave Partners** — Senior UX + Agile Lead. Clinical-trial portals for AbbVie
-  and patient-facing tools for OptumRx (1.4B prescriptions/yr).
+- **John Deere** — Senior Lead UX, Digital Customer Experience (2020–2024). Redesigned
+  license management for 500K+ customers, the flow that gates Deere's **$3.8B**
+  connected-services business. Took **profile completion from 34% to 87%**. Got 6 brands
+  and 40+ product teams onto one shared design system, and built one account and nav
+  framework for 8 product lines.
+- **FourKites** — Lead UX / Manager (2017–2020). Founding design hire, employee #28.
+  **Built the design org from 1 → 10** as ARR grew $3M → $100M. Owned the confidence-level
+  UI on predictive dashboards that flagged delays 6–12 hours before a traditional ETA;
+  customer retention rose 38% year over year in that stretch.
+- **Maven Wave Partners** — Senior UX + Agile Lead (2014–2017). 6 portals for AbbVie
+  (200K+ users across clinical trials and patient support) and OptumRx's first
+  patient-facing product.
 - **Nokia / HERE Maps · Gogo Inflight · Cognistar** — earlier product and UX roles.
 
 ## 🛠️ How I Work
